@@ -11,7 +11,7 @@ Code for the paper: "An Information-Theoretic Framework For Optimizing Experimen
   year={2026}
 ```
 
-This repository contains code for the ICLR 2026 paper “” It provides utilities to compute the information gap, simulate likelihood- and posterior-coding neural populations, and train decoders to compare task designs.
+This repository provides utilities to compute the information gap, simulate likelihood- and posterior-coding neural populations, and train decoders to compare task designs.
 
 
 
