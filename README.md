@@ -4,11 +4,14 @@ Code for the paper: "An Information-Theoretic Framework For Optimizing Experimen
 (arXiv: []())
 
 ```
-@inproceedings{kuo2026information,
-  title={An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes},
-  author={Kuo, Po-Chen and Walker, Edgar Y.},
-  booktitle={The Fourteenth International Conference on Learning Representations (ICLR)},
-  year={2026}
+@inproceedings{
+	kuo2026an,
+	title={An Information-Theoretic Framework For Optimizing Experimental Design To Distinguish Probabilistic Neural Codes},
+	author={Po-Chen Kuo and Edgar Y. Walker},
+	booktitle={The Fourteenth International Conference on Learning Representations},
+	year={2026},
+	url={https://openreview.net/forum?id=doxBjZ88H3}
+}
 ```
 
 This repository provides utilities to compute the information gap, simulate likelihood- and posterior-coding neural populations, and train decoders to compare task designs.
